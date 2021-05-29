@@ -73,5 +73,5 @@ seo:
       value: images/header.jpg
       relativeUrl: true
 template: advanced
-white_header: true
+white_header: false
 ---
